@@ -1,2 +1,2 @@
-# Social-Media-Ussage-Analysis
+# Social-Media-Usage-Analysis
 HCL Project (Social Media Ussage Analysis)
