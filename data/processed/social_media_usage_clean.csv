@@ -1,0 +1,249 @@
+Participant ID,Age,Gender,Occupation,Most Used Platform,Primary Purpose,Day Type,Daily Usage Hours,Sessions Per Day,Preferred Usage Time,Notifications Setting,Private Account,Posts Per Week,Effect on Sleep,Effect on Studies,Data Usage,Usage_Level,Age_Group,Sleep_Impact_Score,Study_Impact_Score,High_Risk
+P959,16,Non-Binary,Student,Unknown,Entertainment,Both,2.7,24,Late Night,On,No,20,No Effect,No Effect,High,Moderate (2-4h),16-20,0,0,False
+P129,36,Unknown,Self-Employed,Reddit,Education,Weekend,1.7,35,Late Night,On,No,5,No Effect,Slightly Distracting,High,Light (<2h),36-45,0,1,False
+P943,40,Female,Employed,X,Education,Weekend,6.4,32,Morning,Off,Yes,17,Highly Affected,Slightly Distracting,High,Heavy (4-7h),36-45,3,1,False
+P793,33,Female,Student,Facebook,Entertainment,Weekend,1.7,28,Late Night,On,No,12,Highly Affected,Slightly Distracting,Medium,Light (<2h),31-35,3,1,False
+P771,39,Female,Employed,Reddit,Education,Weekend,7.1,16,Morning,Off,Yes,13,Slightly Affected,No Effect,Medium,Extreme (7h+),36-45,1,0,False
+P515,21,Male,Student,Unknown,Content Creation,Weekday,3.0,13,Afternoon,Off,No,16,No Effect,Slightly Distracting,High,Moderate (2-4h),21-25,0,1,False
+P375,43,Non-Binary,Self-Employed,WhatsApp,Education,Weekday,3.0,18,Evening,Off,No,7,No Effect,Slightly Distracting,High,Moderate (2-4h),36-45,0,1,False
+P854,36,Female,Employed,Snapchat,Communication,Weekend,2.9,13,Morning,Off,No,0,Highly Affected,Slightly Distracting,Medium,Moderate (2-4h),36-45,3,1,False
+P370,41,Female,Student,Reddit,Entertainment,Weekend,3.2,24,Morning,Off,Yes,13,Slightly Affected,Highly Distracting,High,Moderate (2-4h),36-45,1,2,False
+P435,22,Male,Unemployed,WhatsApp,Communication,Weekday,7.8,18,Morning,Off,No,9,Highly Affected,Improves Focus,High,Extreme (7h+),21-25,3,-1,True
+P550,26,Male,Self-Employed,X,News,Weekday,8.5,26,Evening,Off,No,10,Moderately Affected,Highly Distracting,High,Extreme (7h+),26-30,2,2,True
+P521,35,Female,Student,Facebook,Entertainment,Weekend,2.8,20,Late Night,Off,Yes,15,Moderately Affected,No Effect,High,Moderate (2-4h),31-35,2,0,False
+P357,27,Female,Unemployed,X,Shopping,Weekday,6.1,6,Late Night,Off,No,16,Slightly Affected,No Effect,Medium,Heavy (4-7h),26-30,1,0,False
+P810,16,Male,Student,Pinterest,Content Creation,Weekend,6.9,17,Late Night,Off,Yes,7,Highly Affected,Slightly Distracting,Medium,Heavy (4-7h),16-20,3,1,False
+P889,41,Prefer Not To Say,Student,Unknown,Shopping,Weekday,7.1,11,Afternoon,Off,No,11,Highly Affected,Slightly Distracting,Medium,Extreme (7h+),36-45,3,1,True
+P712,31,Non-Binary,Employed,Instagram,Entertainment,Weekend,7.8,7,Evening,On,No,9,Highly Affected,Slightly Distracting,High,Extreme (7h+),31-35,3,1,True
+P769,35,Male,Student,Pinterest,Education,Weekday,1.0,5,Afternoon,Off,No,3,Highly Affected,Slightly Distracting,Low,Light (<2h),31-35,3,1,False
+P814,24,Male,Employed,X,Education,Weekday,8.2,2,Morning,Off,No,5,No Effect,No Effect,High,Extreme (7h+),21-25,0,0,False
+P950,37,Male,Student,YouTube,Content Creation,Weekday,5.4,10,Evening,On,No,13,Moderately Affected,No Effect,Low,Heavy (4-7h),36-45,2,0,False
+P465,19,Female,Self-Employed,YouTube,Education,Weekend,2.4,33,Evening,On,No,10,Moderately Affected,Highly Distracting,Medium,Moderate (2-4h),16-20,2,2,False
+P426,41,Female,Self-Employed,WhatsApp,Entertainment,Weekend,8.5,20,Evening,On,Yes,0,Highly Affected,Slightly Distracting,Medium,Extreme (7h+),36-45,3,1,True
+P359,39,Male,Self-Employed,Instagram,News,Weekday,9.4,35,Evening,On,Yes,3,No Effect,Improves Focus,High,Extreme (7h+),36-45,0,-1,False
+P870,20,Female,Employed,Pinterest,Content Creation,Weekday,1.0,27,Late Night,Off,Yes,14,Slightly Affected,No Effect,Medium,Light (<2h),16-20,1,0,False
+P319,45,Non-Binary,Student,Facebook,Communication,Weekday,4.7,18,Evening,On,No,15,No Effect,Highly Distracting,High,Heavy (4-7h),36-45,0,2,False
+P598,21,Male,Student,YouTube,Shopping,Weekend,7.5,29,Afternoon,Off,No,10,No Effect,Improves Focus,Medium,Extreme (7h+),21-25,0,-1,False
+P870,43,Non-Binary,Unemployed,X,Communication,Weekend,2.6,8,Evening,On,No,4,No Effect,No Effect,High,Moderate (2-4h),36-45,0,0,False
+P869,37,Prefer Not To Say,Student,YouTube,Education,Weekday,6.6,31,Morning,Off,Yes,10,No Effect,Slightly Distracting,High,Heavy (4-7h),36-45,0,1,False
+P203,35,Prefer Not To Say,Employed,Instagram,Content Creation,Both,9.0,12,Afternoon,On,Yes,1,Moderately Affected,Slightly Distracting,High,Extreme (7h+),31-35,2,1,True
+P636,17,Non-Binary,Self-Employed,Facebook,Entertainment,Weekday,2.9,30,Morning,On,Yes,14,Moderately Affected,Slightly Distracting,High,Moderate (2-4h),16-20,2,1,False
+P503,37,Female,Self-Employed,WhatsApp,News,Weekend,6.3,10,Afternoon,Off,Yes,3,Slightly Affected,No Effect,High,Heavy (4-7h),36-45,1,0,False
+P871,16,Non-Binary,Student,YouTube,Entertainment,Both,3.0,17,Late Night,On,No,14,Slightly Affected,Improves Focus,High,Moderate (2-4h),16-20,1,-1,False
+P779,25,Female,Student,X,Entertainment,Weekend,2.6,17,Afternoon,On,No,9,Slightly Affected,No Effect,Medium,Moderate (2-4h),21-25,1,0,False
+P142,34,Non-Binary,Employed,Unknown,News,Weekday,5.7,29,Late Night,Off,No,4,Slightly Affected,No Effect,Medium,Heavy (4-7h),31-35,1,0,False
+P356,16,Male,Unemployed,Instagram,Content Creation,Weekend,7.0,24,Evening,Off,No,4,No Effect,No Effect,Medium,Extreme (7h+),16-20,0,0,False
+P790,35,Female,Student,Unknown,Content Creation,Weekend,2.9,7,Evening,Off,Yes,7,No Effect,Highly Distracting,High,Moderate (2-4h),31-35,0,2,False
+P528,35,Non-Binary,Unemployed,X,Content Creation,Weekday,8.9,34,Evening,On,Yes,12,Slightly Affected,No Effect,High,Extreme (7h+),31-35,1,0,False
+P948,21,Prefer Not To Say,Unemployed,Snapchat,Entertainment,Weekend,2.3,18,Late Night,Off,No,12,Slightly Affected,Slightly Distracting,Low,Moderate (2-4h),21-25,1,1,False
+P489,40,Non-Binary,Student,Pinterest,Content Creation,Weekend,4.5,16,Afternoon,Off,No,16,Slightly Affected,No Effect,Medium,Heavy (4-7h),36-45,1,0,False
+P631,26,Non-Binary,Employed,Unknown,Content Creation,Weekend,9.4,16,Late Night,On,No,11,No Effect,Improves Focus,Low,Extreme (7h+),26-30,0,-1,False
+P694,35,Prefer Not To Say,Student,Unknown,News,Both,6.1,26,Late Night,On,Yes,14,No Effect,Slightly Distracting,Medium,Heavy (4-7h),31-35,0,1,False
+P864,31,Non-Binary,Employed,WhatsApp,Content Creation,Both,2.0,16,Morning,On,Yes,4,No Effect,No Effect,Low,Moderate (2-4h),31-35,0,0,False
+P701,40,Male,Student,Instagram,Entertainment,Weekend,5.0,6,Evening,Off,Yes,0,Moderately Affected,Improves Focus,High,Heavy (4-7h),36-45,2,-1,False
+P458,35,Female,Employed,Reddit,Entertainment,Weekend,6.7,21,Morning,Off,Yes,5,Moderately Affected,Improves Focus,High,Heavy (4-7h),31-35,2,-1,False
+P155,22,Prefer Not To Say,Unemployed,YouTube,News,Weekday,7.6,20,Evening,On,No,20,Moderately Affected,No Effect,Medium,Extreme (7h+),21-25,2,0,True
+P833,30,Prefer Not To Say,Unemployed,Reddit,News,Weekday,9.5,11,Morning,On,No,15,No Effect,Slightly Distracting,High,Extreme (7h+),26-30,0,1,False
+P404,23,Male,Employed,Reddit,Shopping,Weekday,3.2,21,Late Night,On,No,7,Slightly Affected,Improves Focus,High,Moderate (2-4h),21-25,1,-1,False
+P163,30,Female,Employed,X,Entertainment,Weekend,3.0,19,Late Night,Off,No,18,Highly Affected,Slightly Distracting,Low,Moderate (2-4h),26-30,3,1,False
+P448,16,Female,Student,WhatsApp,Communication,Weekday,3.7,14,Evening,Off,No,4,Moderately Affected,Slightly Distracting,Medium,Moderate (2-4h),16-20,2,1,False
+P827,38,Female,Student,Unknown,Shopping,Weekday,3.3,24,Evening,Off,Yes,4,No Effect,No Effect,Low,Moderate (2-4h),36-45,0,0,False
+P974,25,Unknown,Employed,Unknown,News,Weekend,0.8,5,Late Night,Off,No,5,Slightly Affected,Slightly Distracting,High,Light (<2h),21-25,1,1,False
+P175,24,Prefer Not To Say,Student,Pinterest,Entertainment,Weekend,6.8,29,Morning,Off,No,12,Slightly Affected,No Effect,Low,Heavy (4-7h),21-25,1,0,False
+P590,43,Female,Self-Employed,Reddit,Education,Weekday,0.6,20,Afternoon,Off,Yes,15,Slightly Affected,Improves Focus,High,Light (<2h),36-45,1,-1,False
+P677,42,Male,Employed,Instagram,Entertainment,Weekday,8.0,25,Evening,On,No,3,Slightly Affected,Slightly Distracting,Medium,Extreme (7h+),36-45,1,1,False
+P667,28,Non-Binary,Self-Employed,Snapchat,Content Creation,Weekend,6.9,23,Afternoon,Off,No,2,Slightly Affected,No Effect,Medium,Heavy (4-7h),26-30,1,0,False
+P988,45,Female,Employed,YouTube,Content Creation,Weekend,8.3,33,Afternoon,Off,No,16,No Effect,Highly Distracting,Low,Extreme (7h+),36-45,0,2,True
+P599,26,Non-Binary,Self-Employed,YouTube,Content Creation,Weekend,0.8,22,Late Night,On,No,5,Highly Affected,Improves Focus,Low,Light (<2h),26-30,3,-1,False
+P557,42,Non-Binary,Student,Instagram,Entertainment,Weekday,6.1,33,Late Night,Off,No,4,No Effect,Slightly Distracting,Medium,Heavy (4-7h),36-45,0,1,False
+P488,43,Non-Binary,Self-Employed,Pinterest,Content Creation,Weekday,4.9,5,Evening,Off,No,8,No Effect,No Effect,Medium,Heavy (4-7h),36-45,0,0,False
+P222,37,Non-Binary,Student,Facebook,Communication,Weekend,1.2,18,Evening,Off,Yes,16,No Effect,Improves Focus,High,Light (<2h),36-45,0,-1,False
+P622,18,Non-Binary,Employed,Unknown,Communication,Weekend,5.3,9,Evening,On,No,16,Highly Affected,No Effect,High,Heavy (4-7h),16-20,3,0,False
+P325,18,Male,Student,Instagram,Shopping,Weekday,3.7,16,Late Night,Off,No,18,Slightly Affected,Highly Distracting,Medium,Moderate (2-4h),16-20,1,2,False
+P754,25,Female,Student,Reddit,Entertainment,Weekend,1.7,17,Late Night,On,No,13,Slightly Affected,Slightly Distracting,Low,Light (<2h),21-25,1,1,False
+P572,31,Non-Binary,Employed,Instagram,Education,Both,9.2,11,Late Night,On,No,7,Highly Affected,Slightly Distracting,Medium,Extreme (7h+),31-35,3,1,True
+P386,44,Prefer Not To Say,Employed,WhatsApp,Education,Weekday,4.2,3,Late Night,Off,Yes,17,No Effect,Slightly Distracting,Medium,Heavy (4-7h),36-45,0,1,False
+P822,29,Female,Self-Employed,Unknown,Education,Weekend,5.3,32,Late Night,On,No,1,No Effect,Highly Distracting,Medium,Heavy (4-7h),26-30,0,2,False
+P475,30,Prefer Not To Say,Employed,WhatsApp,Entertainment,Weekend,3.3,18,Evening,On,No,17,No Effect,No Effect,High,Moderate (2-4h),26-30,0,0,False
+P955,42,Female,Employed,Snapchat,Shopping,Weekday,7.2,4,Morning,Off,No,6,No Effect,Highly Distracting,Low,Extreme (7h+),36-45,0,2,True
+P465,31,Unknown,Employed,X,Content Creation,Weekday,2.9,14,Late Night,On,No,9,Moderately Affected,No Effect,High,Moderate (2-4h),31-35,2,0,False
+P775,42,Male,Self-Employed,Instagram,Entertainment,Weekend,1.2,10,Evening,Off,Yes,4,No Effect,No Effect,Medium,Light (<2h),36-45,0,0,False
+P300,41,Prefer Not To Say,Student,WhatsApp,Entertainment,Weekday,2.7,29,Late Night,On,Yes,12,Highly Affected,Improves Focus,Medium,Moderate (2-4h),36-45,3,-1,False
+P198,25,Female,Employed,WhatsApp,Entertainment,Weekend,3.6,22,Evening,Off,Yes,3,No Effect,Slightly Distracting,Medium,Moderate (2-4h),21-25,0,1,False
+P245,42,Male,Unemployed,Pinterest,Education,Weekday,2.9,27,Evening,On,No,15,No Effect,Improves Focus,Low,Moderate (2-4h),36-45,0,-1,False
+P864,18,Prefer Not To Say,Unemployed,X,Communication,Both,1.8,3,Morning,Off,No,2,Slightly Affected,Improves Focus,High,Light (<2h),16-20,1,-1,False
+P126,33,Female,Student,YouTube,Shopping,Weekday,5.8,28,Evening,On,No,3,Slightly Affected,Highly Distracting,Medium,Heavy (4-7h),31-35,1,2,False
+P783,35,Male,Student,WhatsApp,Content Creation,Weekday,9.8,35,Late Night,Off,No,0,No Effect,Highly Distracting,High,Extreme (7h+),31-35,0,2,True
+P700,40,Female,Self-Employed,YouTube,Entertainment,Weekend,3.7,31,Evening,On,Yes,14,Slightly Affected,Slightly Distracting,Low,Moderate (2-4h),36-45,1,1,False
+P296,42,Male,Employed,Facebook,Education,Weekend,6.5,25,Afternoon,On,Yes,18,Slightly Affected,Slightly Distracting,Low,Heavy (4-7h),36-45,1,1,False
+P438,33,Male,Student,YouTube,Education,Weekend,5.2,15,Evening,Off,No,15,Moderately Affected,Highly Distracting,Low,Heavy (4-7h),31-35,2,2,False
+P332,25,Non-Binary,Self-Employed,Pinterest,Content Creation,Weekend,9.1,32,Evening,On,No,17,Highly Affected,Slightly Distracting,Low,Extreme (7h+),21-25,3,1,True
+P552,30,Unknown,Student,YouTube,Shopping,Weekday,6.8,33,Morning,Off,No,19,No Effect,No Effect,High,Heavy (4-7h),26-30,0,0,False
+P560,25,Unknown,Unemployed,YouTube,News,Weekday,1.3,12,Late Night,On,No,8,Moderately Affected,No Effect,Low,Light (<2h),21-25,2,0,False
+P304,16,Non-Binary,Employed,Facebook,Communication,Weekday,4.1,5,Evening,Off,Yes,1,Slightly Affected,Slightly Distracting,High,Heavy (4-7h),16-20,1,1,False
+P527,34,Female,Self-Employed,WhatsApp,Education,Both,4.6,27,Late Night,On,No,20,Slightly Affected,Slightly Distracting,Medium,Heavy (4-7h),31-35,1,1,False
+P779,38,Prefer Not To Say,Student,WhatsApp,Shopping,Weekday,9.2,26,Morning,Off,No,12,No Effect,Highly Distracting,High,Extreme (7h+),36-45,0,2,True
+P714,28,Non-Binary,Student,X,Shopping,Weekday,5.3,12,Late Night,Off,Yes,17,No Effect,Slightly Distracting,High,Heavy (4-7h),26-30,0,1,False
+P914,39,Prefer Not To Say,Employed,Reddit,Content Creation,Both,9.7,24,Late Night,Off,Yes,2,No Effect,Improves Focus,Medium,Extreme (7h+),36-45,0,-1,False
+P315,18,Female,Employed,Instagram,Education,Weekend,0.9,18,Evening,Off,Yes,20,Highly Affected,Highly Distracting,Medium,Light (<2h),16-20,3,2,False
+P173,23,Female,Employed,YouTube,Content Creation,Weekday,6.7,19,Late Night,On,No,4,Highly Affected,Slightly Distracting,High,Heavy (4-7h),21-25,3,1,False
+P342,27,Female,Student,X,Communication,Weekend,9.4,13,Late Night,On,Yes,5,No Effect,No Effect,Medium,Extreme (7h+),26-30,0,0,False
+P229,42,Female,Employed,Reddit,Content Creation,Both,0.7,11,Afternoon,On,Yes,7,No Effect,Slightly Distracting,Medium,Light (<2h),36-45,0,1,False
+P697,36,Male,Employed,YouTube,Entertainment,Weekend,7.9,16,Afternoon,On,No,1,Highly Affected,Slightly Distracting,Medium,Extreme (7h+),36-45,3,1,True
+P915,34,Female,Self-Employed,Snapchat,News,Weekday,9.8,27,Evening,On,No,10,No Effect,Improves Focus,Medium,Extreme (7h+),31-35,0,-1,False
+P923,35,Male,Unemployed,Snapchat,Shopping,Both,0.9,6,Evening,On,No,6,Slightly Affected,Slightly Distracting,High,Light (<2h),31-35,1,1,False
+P795,44,Female,Self-Employed,Unknown,Entertainment,Weekend,7.5,13,Late Night,Off,Yes,20,Moderately Affected,Slightly Distracting,Medium,Extreme (7h+),36-45,2,1,True
+P861,29,Non-Binary,Employed,Unknown,Content Creation,Weekend,8.4,30,Evening,On,No,5,No Effect,Improves Focus,Medium,Extreme (7h+),26-30,0,-1,False
+P482,42,Unknown,Student,Instagram,Shopping,Weekday,6.6,14,Afternoon,On,No,4,No Effect,Slightly Distracting,Medium,Heavy (4-7h),36-45,0,1,False
+P710,24,Prefer Not To Say,Unemployed,WhatsApp,Education,Weekday,2.1,23,Late Night,On,No,14,No Effect,No Effect,Low,Moderate (2-4h),21-25,0,0,False
+P480,17,Female,Employed,Instagram,Shopping,Weekday,6.2,30,Morning,Off,No,11,No Effect,Improves Focus,High,Heavy (4-7h),16-20,0,-1,False
+P865,29,Female,Employed,Unknown,Entertainment,Weekday,7.2,25,Afternoon,On,Yes,14,Slightly Affected,Slightly Distracting,High,Extreme (7h+),26-30,1,1,False
+P165,20,Female,Unemployed,Pinterest,Entertainment,Weekend,2.7,11,Late Night,Off,No,6,Moderately Affected,Highly Distracting,Medium,Moderate (2-4h),16-20,2,2,False
+P328,36,Male,Employed,Instagram,Education,Weekend,1.6,19,Late Night,On,Yes,7,Slightly Affected,Highly Distracting,High,Light (<2h),36-45,1,2,False
+P426,26,Unknown,Self-Employed,Instagram,Education,Weekend,4.2,13,Morning,Off,No,0,Slightly Affected,No Effect,Medium,Heavy (4-7h),26-30,1,0,False
+P188,43,Non-Binary,Employed,Facebook,Content Creation,Weekend,3.2,21,Afternoon,Off,Yes,10,Slightly Affected,Improves Focus,Medium,Moderate (2-4h),36-45,1,-1,False
+P163,41,Male,Employed,Pinterest,Shopping,Weekday,8.0,9,Morning,On,No,0,Slightly Affected,Improves Focus,High,Extreme (7h+),36-45,1,-1,False
+P437,29,Non-Binary,Employed,Pinterest,Entertainment,Weekday,3.7,8,Late Night,On,No,5,Highly Affected,Improves Focus,Medium,Moderate (2-4h),26-30,3,-1,False
+P405,19,Male,Employed,X,Entertainment,Weekend,8.7,26,Morning,Off,Yes,16,Moderately Affected,Slightly Distracting,Low,Extreme (7h+),16-20,2,1,True
+P633,27,Female,Unemployed,Reddit,Shopping,Weekday,3.5,31,Evening,On,No,6,No Effect,No Effect,High,Moderate (2-4h),26-30,0,0,False
+P307,26,Female,Employed,YouTube,Communication,Weekday,4.8,16,Afternoon,Off,Yes,2,No Effect,No Effect,High,Heavy (4-7h),26-30,0,0,False
+P756,43,Non-Binary,Student,YouTube,Content Creation,Weekend,1.2,19,Evening,Off,Yes,11,Highly Affected,No Effect,Medium,Light (<2h),36-45,3,0,False
+P133,32,Unknown,Employed,WhatsApp,Education,Weekday,8.1,32,Morning,Off,No,17,Moderately Affected,Slightly Distracting,High,Extreme (7h+),31-35,2,1,True
+P728,35,Male,Student,Instagram,Communication,Weekday,0.9,26,Afternoon,On,Yes,12,No Effect,No Effect,Low,Light (<2h),31-35,0,0,False
+P696,27,Unknown,Self-Employed,YouTube,Entertainment,Weekend,2.0,18,Afternoon,Off,No,11,No Effect,Slightly Distracting,High,Moderate (2-4h),26-30,0,1,False
+P626,39,Prefer Not To Say,Student,Facebook,News,Both,3.2,35,Evening,On,No,11,Slightly Affected,Highly Distracting,Low,Moderate (2-4h),36-45,1,2,False
+P285,20,Unknown,Employed,Reddit,Entertainment,Weekday,6.2,11,Evening,Off,No,5,Highly Affected,No Effect,High,Heavy (4-7h),16-20,3,0,False
+P576,25,Female,Unemployed,Unknown,Content Creation,Both,2.4,19,Afternoon,Off,Yes,1,Moderately Affected,Highly Distracting,High,Moderate (2-4h),21-25,2,2,False
+P290,45,Female,Student,Facebook,Education,Both,9.2,27,Late Night,Off,Yes,15,Moderately Affected,No Effect,Medium,Extreme (7h+),36-45,2,0,True
+P109,28,Prefer Not To Say,Unemployed,Unknown,Shopping,Weekend,5.8,5,Afternoon,Off,No,20,Moderately Affected,Improves Focus,Low,Heavy (4-7h),26-30,2,-1,False
+P654,33,Unknown,Employed,Facebook,Communication,Weekday,1.8,10,Evening,On,Yes,18,Slightly Affected,Slightly Distracting,Medium,Light (<2h),31-35,1,1,False
+P161,16,Prefer Not To Say,Employed,Reddit,Entertainment,Weekday,2.6,31,Late Night,On,Yes,11,Slightly Affected,Improves Focus,Low,Moderate (2-4h),16-20,1,-1,False
+P520,34,Unknown,Employed,Instagram,Content Creation,Weekend,9.6,23,Afternoon,Off,No,3,Moderately Affected,No Effect,High,Extreme (7h+),31-35,2,0,True
+P546,16,Male,Employed,X,Education,Weekday,3.5,16,Afternoon,Off,Yes,20,Slightly Affected,No Effect,Medium,Moderate (2-4h),16-20,1,0,False
+P251,18,Female,Employed,YouTube,Shopping,Weekday,9.0,22,Morning,Off,Yes,19,Highly Affected,Highly Distracting,Medium,Extreme (7h+),16-20,3,2,True
+P567,16,Male,Employed,WhatsApp,Content Creation,Weekend,1.7,12,Evening,On,Yes,14,No Effect,Highly Distracting,High,Light (<2h),16-20,0,2,False
+P959,17,Male,Self-Employed,Facebook,Shopping,Both,2.5,18,Morning,On,No,15,No Effect,No Effect,High,Moderate (2-4h),16-20,0,0,False
+P936,22,Female,Unemployed,X,Entertainment,Weekday,5.6,29,Late Night,Off,Yes,20,Slightly Affected,Highly Distracting,Medium,Heavy (4-7h),21-25,1,2,False
+P192,38,Male,Self-Employed,Pinterest,Content Creation,Weekday,4.7,2,Evening,On,No,7,No Effect,No Effect,Medium,Heavy (4-7h),36-45,0,0,False
+P182,26,Prefer Not To Say,Self-Employed,Unknown,Education,Weekend,6.4,27,Afternoon,Off,Yes,20,Slightly Affected,Slightly Distracting,Low,Heavy (4-7h),26-30,1,1,False
+P357,28,Male,Employed,YouTube,Content Creation,Both,6.2,31,Evening,Off,Yes,16,No Effect,Improves Focus,High,Heavy (4-7h),26-30,0,-1,False
+P898,17,Non-Binary,Unemployed,Pinterest,Education,Weekend,7.4,26,Morning,On,Yes,2,Moderately Affected,No Effect,Medium,Extreme (7h+),16-20,2,0,True
+P170,17,Prefer Not To Say,Student,YouTube,News,Weekend,9.6,7,Evening,Off,No,5,Moderately Affected,Highly Distracting,Medium,Extreme (7h+),16-20,2,2,True
+P267,19,Female,Student,Facebook,Communication,Both,0.6,10,Morning,On,No,0,Moderately Affected,Slightly Distracting,High,Light (<2h),16-20,2,1,False
+P305,41,Unknown,Unemployed,Instagram,Shopping,Weekend,3.9,16,Late Night,On,Yes,3,No Effect,Highly Distracting,Medium,Moderate (2-4h),36-45,0,2,False
+P507,37,Unknown,Unemployed,YouTube,News,Weekend,4.0,24,Afternoon,On,No,1,No Effect,No Effect,Medium,Heavy (4-7h),36-45,0,0,False
+P726,40,Male,Student,WhatsApp,Education,Weekday,3.0,30,Evening,On,No,6,Moderately Affected,No Effect,Medium,Moderate (2-4h),36-45,2,0,False
+P509,42,Unknown,Unemployed,Reddit,Entertainment,Weekend,3.8,9,Morning,Off,Yes,12,Slightly Affected,No Effect,Medium,Moderate (2-4h),36-45,1,0,False
+P485,41,Non-Binary,Employed,Reddit,Content Creation,Weekend,9.5,19,Late Night,Off,Yes,13,Moderately Affected,Slightly Distracting,Low,Extreme (7h+),36-45,2,1,True
+P545,27,Male,Self-Employed,YouTube,Education,Weekday,6.5,31,Morning,On,No,4,No Effect,No Effect,Medium,Heavy (4-7h),26-30,0,0,False
+P505,30,Male,Employed,YouTube,Education,Weekday,6.9,21,Morning,Off,Yes,0,Slightly Affected,Slightly Distracting,Medium,Heavy (4-7h),26-30,1,1,False
+P657,32,Female,Student,Pinterest,Education,Weekday,9.8,6,Evening,On,Yes,16,No Effect,Slightly Distracting,High,Extreme (7h+),31-35,0,1,False
+P922,45,Male,Self-Employed,Snapchat,Entertainment,Both,9.6,4,Late Night,Off,Yes,17,Highly Affected,Improves Focus,Medium,Extreme (7h+),36-45,3,-1,True
+P982,30,Prefer Not To Say,Employed,X,Education,Both,2.4,11,Afternoon,On,Yes,10,No Effect,Highly Distracting,Medium,Moderate (2-4h),26-30,0,2,False
+P743,23,Non-Binary,Unemployed,Instagram,Shopping,Weekend,6.5,18,Afternoon,Off,No,4,No Effect,No Effect,High,Heavy (4-7h),21-25,0,0,False
+P324,33,Female,Unemployed,X,Entertainment,Weekend,7.6,16,Late Night,On,Yes,15,Slightly Affected,Highly Distracting,Medium,Extreme (7h+),31-35,1,2,True
+P477,45,Prefer Not To Say,Employed,YouTube,Entertainment,Weekend,3.9,14,Late Night,On,Yes,8,Slightly Affected,Slightly Distracting,Low,Moderate (2-4h),36-45,1,1,False
+P787,29,Female,Employed,Unknown,Communication,Weekday,3.1,5,Morning,Off,Yes,2,Moderately Affected,Highly Distracting,High,Moderate (2-4h),26-30,2,2,False
+P573,35,Male,Employed,X,Entertainment,Weekend,6.5,17,Afternoon,On,No,5,Highly Affected,Slightly Distracting,Medium,Heavy (4-7h),31-35,3,1,False
+P180,33,Prefer Not To Say,Student,Reddit,Education,Both,6.6,27,Morning,Off,No,7,No Effect,No Effect,High,Heavy (4-7h),31-35,0,0,False
+P369,25,Prefer Not To Say,Student,Snapchat,News,Weekend,8.8,4,Late Night,Off,No,14,No Effect,Slightly Distracting,High,Extreme (7h+),21-25,0,1,False
+P734,25,Female,Unemployed,WhatsApp,News,Weekday,1.8,22,Evening,Off,No,14,Highly Affected,No Effect,Low,Light (<2h),21-25,3,0,False
+P165,22,Female,Student,Instagram,Entertainment,Weekend,2.1,8,Morning,Off,No,3,Slightly Affected,Slightly Distracting,Medium,Moderate (2-4h),21-25,1,1,False
+P110,32,Male,Employed,Instagram,Communication,Weekday,1.4,25,Evening,Off,No,16,Slightly Affected,Highly Distracting,Medium,Light (<2h),31-35,1,2,False
+P490,28,Non-Binary,Employed,Facebook,Entertainment,Weekday,8.6,8,Late Night,Off,No,7,Slightly Affected,No Effect,High,Extreme (7h+),26-30,1,0,False
+P119,24,Unknown,Student,YouTube,Entertainment,Weekend,7.5,6,Evening,Off,Yes,2,Slightly Affected,Highly Distracting,High,Extreme (7h+),21-25,1,2,True
+P706,28,Female,Employed,Facebook,Education,Weekend,9.4,14,Morning,On,No,2,Highly Affected,Improves Focus,Medium,Extreme (7h+),26-30,3,-1,True
+P959,31,Female,Student,Unknown,Communication,Weekend,3.8,26,Late Night,On,No,4,No Effect,No Effect,Medium,Moderate (2-4h),31-35,0,0,False
+P336,40,Non-Binary,Employed,Pinterest,Entertainment,Weekday,4.6,20,Evening,On,No,19,Moderately Affected,Slightly Distracting,High,Heavy (4-7h),36-45,2,1,False
+P272,19,Unknown,Employed,Pinterest,Education,Weekday,0.9,31,Afternoon,On,Yes,1,No Effect,No Effect,High,Light (<2h),16-20,0,0,False
+P274,31,Prefer Not To Say,Student,Facebook,Entertainment,Weekday,2.4,3,Afternoon,On,No,6,No Effect,Slightly Distracting,Medium,Moderate (2-4h),31-35,0,1,False
+P540,41,Female,Self-Employed,X,Education,Weekday,1.3,29,Afternoon,Off,No,2,Slightly Affected,Slightly Distracting,High,Light (<2h),36-45,1,1,False
+P284,32,Unknown,Unemployed,Snapchat,News,Weekend,3.9,25,Late Night,On,No,9,Slightly Affected,Slightly Distracting,High,Moderate (2-4h),31-35,1,1,False
+P970,37,Female,Employed,Pinterest,Education,Both,9.3,4,Evening,On,Yes,5,Slightly Affected,Slightly Distracting,Low,Extreme (7h+),36-45,1,1,False
+P494,32,Male,Employed,YouTube,Communication,Weekend,1.4,16,Evening,Off,No,17,Slightly Affected,No Effect,High,Light (<2h),31-35,1,0,False
+P582,38,Male,Student,Snapchat,News,Weekend,8.1,21,Evening,Off,No,14,Moderately Affected,No Effect,Low,Extreme (7h+),36-45,2,0,True
+P243,28,Male,Employed,YouTube,Shopping,Weekend,4.7,15,Evening,On,No,1,No Effect,No Effect,High,Heavy (4-7h),26-30,0,0,False
+P100,27,Female,Student,Instagram,Communication,Both,9.6,30,Morning,Off,Yes,12,No Effect,Improves Focus,Medium,Extreme (7h+),26-30,0,-1,False
+P362,22,Female,Unemployed,Reddit,Entertainment,Weekend,2.9,6,Late Night,Off,Yes,11,Slightly Affected,Highly Distracting,Low,Moderate (2-4h),21-25,1,2,False
+P690,16,Unknown,Student,WhatsApp,Entertainment,Weekday,4.8,15,Late Night,Off,No,5,Moderately Affected,No Effect,Medium,Heavy (4-7h),16-20,2,0,False
+P116,29,Female,Employed,Pinterest,Content Creation,Weekend,0.9,16,Late Night,On,No,4,Moderately Affected,Highly Distracting,Medium,Light (<2h),26-30,2,2,False
+P249,20,Non-Binary,Unemployed,Facebook,Education,Weekday,3.1,19,Late Night,On,No,15,Moderately Affected,Improves Focus,Medium,Moderate (2-4h),16-20,2,-1,False
+P652,18,Female,Unemployed,X,Entertainment,Weekend,5.1,10,Evening,On,No,19,Highly Affected,No Effect,High,Heavy (4-7h),16-20,3,0,False
+P133,34,Non-Binary,Employed,Reddit,Education,Weekend,0.8,16,Late Night,On,No,9,Highly Affected,Improves Focus,Medium,Light (<2h),31-35,3,-1,False
+P688,35,Prefer Not To Say,Student,YouTube,Education,Weekend,9.6,31,Late Night,On,Yes,12,No Effect,Highly Distracting,Medium,Extreme (7h+),31-35,0,2,True
+P286,41,Male,Unemployed,YouTube,Education,Both,3.1,14,Afternoon,On,Yes,2,Moderately Affected,Slightly Distracting,Medium,Moderate (2-4h),36-45,2,1,False
+P337,21,Male,Employed,Unknown,Entertainment,Weekday,3.6,29,Late Night,Off,No,14,Slightly Affected,Slightly Distracting,Low,Moderate (2-4h),21-25,1,1,False
+P864,42,Prefer Not To Say,Student,WhatsApp,News,Weekday,2.1,32,Morning,On,Yes,9,Slightly Affected,Slightly Distracting,High,Moderate (2-4h),36-45,1,1,False
+P502,20,Female,Self-Employed,Instagram,Education,Weekend,3.6,22,Late Night,On,Yes,5,No Effect,Highly Distracting,High,Moderate (2-4h),16-20,0,2,False
+P770,20,Male,Employed,Facebook,Entertainment,Both,7.5,13,Late Night,On,No,10,Highly Affected,No Effect,High,Extreme (7h+),16-20,3,0,True
+P468,36,Male,Self-Employed,WhatsApp,Content Creation,Weekday,1.2,31,Morning,On,No,16,Highly Affected,No Effect,Medium,Light (<2h),36-45,3,0,False
+P398,26,Male,Unemployed,Facebook,Education,Both,2.7,22,Afternoon,Off,Yes,20,Slightly Affected,Slightly Distracting,Low,Moderate (2-4h),26-30,1,1,False
+P390,32,Non-Binary,Student,Snapchat,Content Creation,Weekend,5.0,12,Late Night,On,Yes,2,Slightly Affected,Slightly Distracting,Medium,Heavy (4-7h),31-35,1,1,False
+P147,30,Non-Binary,Self-Employed,X,Entertainment,Weekend,2.1,21,Afternoon,Off,Yes,0,No Effect,Slightly Distracting,Medium,Moderate (2-4h),26-30,0,1,False
+P429,38,Prefer Not To Say,Student,Unknown,Shopping,Both,2.4,17,Morning,Off,No,17,Slightly Affected,Slightly Distracting,High,Moderate (2-4h),36-45,1,1,False
+P771,35,Prefer Not To Say,Employed,Instagram,Shopping,Weekend,7.3,2,Late Night,On,Yes,6,Moderately Affected,Improves Focus,Medium,Extreme (7h+),31-35,2,-1,True
+P423,30,Prefer Not To Say,Unemployed,Unknown,Content Creation,Both,7.0,22,Late Night,Off,Yes,20,No Effect,Slightly Distracting,Low,Extreme (7h+),26-30,0,1,False
+P841,22,Female,Self-Employed,YouTube,News,Both,2.6,32,Evening,On,Yes,8,Slightly Affected,Highly Distracting,Low,Moderate (2-4h),21-25,1,2,False
+P767,31,Female,Employed,Instagram,News,Weekend,5.8,33,Morning,Off,No,12,Slightly Affected,Slightly Distracting,High,Heavy (4-7h),31-35,1,1,False
+P412,37,Male,Employed,Instagram,Entertainment,Weekday,1.8,9,Late Night,Off,Yes,7,No Effect,No Effect,Medium,Light (<2h),36-45,0,0,False
+P830,37,Male,Unemployed,Unknown,Communication,Weekday,4.1,20,Late Night,On,Yes,7,Slightly Affected,Highly Distracting,Medium,Heavy (4-7h),36-45,1,2,False
+P222,42,Female,Student,Instagram,Entertainment,Weekday,6.4,11,Late Night,Off,Yes,3,No Effect,No Effect,Low,Heavy (4-7h),36-45,0,0,False
+P820,24,Non-Binary,Student,Unknown,Education,Weekend,6.2,12,Evening,Off,No,10,Slightly Affected,Slightly Distracting,High,Heavy (4-7h),21-25,1,1,False
+P188,27,Non-Binary,Employed,Pinterest,Entertainment,Weekend,2.8,2,Morning,On,Yes,5,Moderately Affected,Slightly Distracting,Medium,Moderate (2-4h),26-30,2,1,False
+P663,42,Female,Employed,WhatsApp,Education,Weekend,6.8,33,Evening,Off,No,18,Moderately Affected,Slightly Distracting,Medium,Heavy (4-7h),36-45,2,1,False
+P433,34,Non-Binary,Employed,Reddit,Shopping,Weekend,1.5,13,Evening,Off,Yes,11,No Effect,No Effect,Low,Light (<2h),31-35,0,0,False
+P990,27,Prefer Not To Say,Student,Unknown,Communication,Both,9.9,26,Evening,Off,Yes,14,Highly Affected,Slightly Distracting,High,Extreme (7h+),26-30,3,1,True
+P533,24,Male,Employed,Reddit,Communication,Weekend,9.3,31,Evening,On,Yes,9,No Effect,No Effect,Medium,Extreme (7h+),21-25,0,0,False
+P649,18,Male,Employed,Unknown,Education,Both,5.4,15,Late Night,On,No,4,Moderately Affected,Slightly Distracting,Medium,Heavy (4-7h),16-20,2,1,False
+P634,42,Female,Employed,Reddit,Communication,Weekday,6.5,20,Late Night,Off,No,17,Slightly Affected,Slightly Distracting,Low,Heavy (4-7h),36-45,1,1,False
+P594,40,Prefer Not To Say,Unemployed,Instagram,Education,Both,3.9,3,Evening,On,Yes,4,Highly Affected,Slightly Distracting,Medium,Moderate (2-4h),36-45,3,1,False
+P679,35,Male,Self-Employed,YouTube,News,Both,3.5,16,Evening,Off,No,20,Highly Affected,Improves Focus,High,Moderate (2-4h),31-35,3,-1,False
+P319,30,Unknown,Student,YouTube,Entertainment,Weekend,7.9,12,Late Night,On,No,3,Slightly Affected,Slightly Distracting,Low,Extreme (7h+),26-30,1,1,False
+P921,16,Non-Binary,Employed,YouTube,Entertainment,Weekday,2.2,23,Evening,On,No,13,Highly Affected,Slightly Distracting,High,Moderate (2-4h),16-20,3,1,False
+P868,26,Female,Employed,Snapchat,Communication,Weekend,10.0,33,Evening,Off,No,11,Slightly Affected,Slightly Distracting,High,Extreme (7h+),26-30,1,1,False
+P468,19,Prefer Not To Say,Employed,YouTube,Education,Weekday,8.2,4,Evening,On,No,9,Slightly Affected,Improves Focus,High,Extreme (7h+),16-20,1,-1,False
+P311,36,Non-Binary,Self-Employed,Instagram,News,Weekday,3.4,34,Evening,Off,Yes,17,No Effect,Slightly Distracting,High,Moderate (2-4h),36-45,0,1,False
+P522,25,Male,Employed,WhatsApp,News,Weekend,2.5,24,Late Night,Off,No,6,Slightly Affected,Improves Focus,High,Moderate (2-4h),21-25,1,-1,False
+P791,34,Female,Student,X,News,Weekday,4.1,25,Evening,Off,Yes,3,Moderately Affected,Highly Distracting,Low,Heavy (4-7h),31-35,2,2,False
+P189,42,Female,Self-Employed,Facebook,Education,Weekday,6.2,22,Morning,Off,No,2,No Effect,No Effect,Low,Heavy (4-7h),36-45,0,0,False
+P887,37,Female,Student,Pinterest,Communication,Weekend,9.5,30,Evening,Off,Yes,14,Slightly Affected,No Effect,Low,Extreme (7h+),36-45,1,0,False
+P432,21,Unknown,Employed,Reddit,Education,Weekday,9.8,20,Afternoon,Off,Yes,11,No Effect,Improves Focus,Medium,Extreme (7h+),21-25,0,-1,False
+P490,28,Female,Student,Instagram,Content Creation,Weekend,2.8,20,Late Night,On,No,1,Moderately Affected,Highly Distracting,Medium,Moderate (2-4h),26-30,2,2,False
+P522,41,Female,Employed,Pinterest,News,Both,4.9,5,Morning,On,No,17,Moderately Affected,Highly Distracting,High,Heavy (4-7h),36-45,2,2,False
+P525,29,Prefer Not To Say,Self-Employed,Unknown,Content Creation,Both,3.7,31,Morning,Off,Yes,12,Slightly Affected,No Effect,Low,Moderate (2-4h),26-30,1,0,False
+P965,19,Female,Employed,Unknown,Entertainment,Weekend,7.7,16,Evening,On,Yes,13,Slightly Affected,No Effect,Medium,Extreme (7h+),16-20,1,0,False
+P561,33,Non-Binary,Student,Snapchat,Content Creation,Both,1.2,2,Evening,Off,Yes,13,Highly Affected,Improves Focus,High,Light (<2h),31-35,3,-1,False
+P559,32,Female,Student,Reddit,News,Weekend,1.6,6,Morning,Off,No,15,Highly Affected,Slightly Distracting,Medium,Light (<2h),31-35,3,1,False
+P106,26,Female,Employed,YouTube,Entertainment,Weekday,0.7,9,Late Night,On,Yes,17,Highly Affected,Highly Distracting,Low,Light (<2h),26-30,3,2,False
+P200,32,Non-Binary,Student,YouTube,Entertainment,Both,7.6,24,Late Night,Off,Yes,1,Highly Affected,No Effect,High,Extreme (7h+),31-35,3,0,True
+P757,42,Male,Student,X,Communication,Weekend,6.0,10,Late Night,On,Yes,10,Moderately Affected,No Effect,Medium,Heavy (4-7h),36-45,2,0,False
+P571,29,Male,Employed,YouTube,Entertainment,Weekday,5.6,16,Morning,On,Yes,7,Slightly Affected,Slightly Distracting,Low,Heavy (4-7h),26-30,1,1,False
+P838,43,Prefer Not To Say,Student,Reddit,Education,Both,9.1,22,Afternoon,Off,Yes,18,Moderately Affected,Highly Distracting,High,Extreme (7h+),36-45,2,2,True
+P651,20,Prefer Not To Say,Student,Pinterest,Shopping,Weekend,3.0,17,Morning,On,No,17,No Effect,Improves Focus,Medium,Moderate (2-4h),16-20,0,-1,False
+P784,18,Prefer Not To Say,Unemployed,Reddit,Entertainment,Weekday,3.0,16,Evening,On,Yes,1,Highly Affected,Slightly Distracting,Medium,Moderate (2-4h),16-20,3,1,False
+P524,21,Prefer Not To Say,Employed,Reddit,Education,Weekend,3.9,9,Afternoon,On,Yes,7,No Effect,No Effect,Low,Moderate (2-4h),21-25,0,0,False
+P533,22,Male,Employed,Unknown,Education,Weekday,1.4,29,Afternoon,Off,No,11,Highly Affected,No Effect,High,Light (<2h),21-25,3,0,False
+P240,26,Male,Employed,Reddit,Education,Weekend,9.3,23,Afternoon,On,No,4,No Effect,Slightly Distracting,Medium,Extreme (7h+),26-30,0,1,False
+P552,32,Non-Binary,Student,WhatsApp,Content Creation,Weekday,3.9,33,Evening,Off,Yes,20,No Effect,No Effect,Low,Moderate (2-4h),31-35,0,0,False
+P474,24,Unknown,Employed,Pinterest,Education,Weekend,3.0,29,Late Night,On,No,18,Slightly Affected,Improves Focus,Medium,Moderate (2-4h),21-25,1,-1,False
+P749,44,Female,Student,X,Communication,Both,9.1,5,Late Night,On,Yes,2,No Effect,Improves Focus,High,Extreme (7h+),36-45,0,-1,False
+P432,31,Male,Employed,Unknown,Content Creation,Weekend,1.1,19,Evening,On,No,20,Slightly Affected,Highly Distracting,High,Light (<2h),31-35,1,2,False
+P243,30,Male,Student,Unknown,Entertainment,Weekend,2.1,24,Morning,Off,No,5,No Effect,Slightly Distracting,Medium,Moderate (2-4h),26-30,0,1,False
+P564,19,Prefer Not To Say,Student,WhatsApp,Entertainment,Weekday,2.7,10,Morning,Off,Yes,12,Slightly Affected,Slightly Distracting,Low,Moderate (2-4h),16-20,1,1,False
+P649,44,Prefer Not To Say,Employed,Facebook,Shopping,Weekday,8.5,32,Evening,On,Yes,9,No Effect,Slightly Distracting,High,Extreme (7h+),36-45,0,1,False
+P927,30,Female,Student,Unknown,Entertainment,Weekday,2.9,6,Late Night,Off,No,14,Highly Affected,Improves Focus,Medium,Moderate (2-4h),26-30,3,-1,False
+P589,27,Non-Binary,Unemployed,Instagram,Education,Weekend,6.3,16,Late Night,Off,Yes,4,No Effect,Improves Focus,Low,Heavy (4-7h),26-30,0,-1,False
+P205,18,Male,Unemployed,WhatsApp,Communication,Weekday,2.7,7,Late Night,On,No,3,Highly Affected,No Effect,Medium,Moderate (2-4h),16-20,3,0,False
+P418,44,Unknown,Employed,Unknown,Education,Weekend,4.0,23,Evening,Off,No,9,Slightly Affected,Highly Distracting,Medium,Heavy (4-7h),36-45,1,2,False
+P804,31,Unknown,Unemployed,Snapchat,Communication,Weekend,4.3,11,Late Night,Off,No,20,Highly Affected,No Effect,High,Heavy (4-7h),31-35,3,0,False
+P568,40,Male,Unemployed,Instagram,Entertainment,Weekend,4.4,9,Evening,On,No,14,No Effect,Highly Distracting,High,Heavy (4-7h),36-45,0,2,False
+P779,43,Non-Binary,Employed,Unknown,Entertainment,Weekend,1.9,7,Evening,On,No,18,Slightly Affected,Slightly Distracting,Medium,Light (<2h),36-45,1,1,False
+P684,28,Male,Student,WhatsApp,Education,Weekday,9.1,4,Afternoon,On,No,16,Slightly Affected,Slightly Distracting,Medium,Extreme (7h+),26-30,1,1,False
+P279,20,Male,Unemployed,Unknown,Communication,Weekend,0.9,23,Morning,Off,Yes,20,No Effect,Highly Distracting,High,Light (<2h),16-20,0,2,False
+P979,26,Female,Self-Employed,WhatsApp,Education,Weekday,7.9,2,Late Night,On,Yes,8,Slightly Affected,Slightly Distracting,Medium,Extreme (7h+),26-30,1,1,False
+P632,24,Male,Employed,Unknown,News,Both,0.9,29,Evening,On,Yes,0,Moderately Affected,Highly Distracting,High,Light (<2h),21-25,2,2,False
+P854,24,Unknown,Employed,X,News,Weekend,9.1,27,Late Night,On,No,12,Moderately Affected,Improves Focus,Medium,Extreme (7h+),21-25,2,-1,True
+P686,42,Non-Binary,Student,Reddit,Education,Weekend,5.7,34,Morning,Off,No,6,No Effect,Improves Focus,High,Heavy (4-7h),36-45,0,-1,False
+P568,33,Female,Employed,Instagram,Content Creation,Both,1.3,14,Evening,Off,Yes,16,No Effect,Slightly Distracting,High,Light (<2h),31-35,0,1,False
+P639,32,Non-Binary,Unemployed,YouTube,Shopping,Weekday,1.9,14,Evening,Off,Yes,19,No Effect,Highly Distracting,Medium,Light (<2h),31-35,0,2,False
+P663,38,Prefer Not To Say,Employed,Reddit,Education,Weekend,5.0,10,Morning,Off,Yes,0,Slightly Affected,Highly Distracting,Medium,Heavy (4-7h),36-45,1,2,False
